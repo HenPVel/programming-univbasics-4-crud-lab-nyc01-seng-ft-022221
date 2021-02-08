@@ -35,7 +35,7 @@ ret_first_elm=array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  array=["wow",2,3,4]
+  array=["wow",2,3,"arrays!"]
 ret_first_elm=array[-1]
 end
 
