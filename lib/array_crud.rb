@@ -40,5 +40,6 @@ ret_first_elm=array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  array=["wow",2,3,"arrays!"]
+  array[index_number]=element
 end
